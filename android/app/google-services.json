@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224540265222",
+    "project_id": "fir-coding-test",
+    "storage_bucket": "fir-coding-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224540265222:android:1a2923ff99e5e1e756ec87",
+        "android_client_info": {
+          "package_name": "com.example.take_home_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224540265222-2rs9o6c2d07a0k7uf25nkd1vaj8eeqat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoA_IDn_v7BNQOCAuhg_-yoCzIOAmPxmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224540265222-2rs9o6c2d07a0k7uf25nkd1vaj8eeqat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
